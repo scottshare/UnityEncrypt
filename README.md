@@ -1,5 +1,5 @@
 # UnityEncrypt
->该项目简单展示了对Unity编译后的托管dll进行加壳和解密的整体过程。
+>该项目简单展示了对Unity编译后的托管dll进行加壳和脱壳的整体过程。
 ## XXteaWin
 >winform项目，该项目直接对dll进行加壳
 
